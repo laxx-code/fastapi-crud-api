@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments (you have 3!)
+fastapi-env/
+todo_fastapi.env/
+dictpython-env/
+.env/
+venv/
+
+# SQLite database (optional: only if you don’t want to commit it)
+*.db
+
+# Editor settings
+.vscode/
+.idea/
