@@ -26,7 +26,8 @@ This project is a RESTful API built using FastAPI that performs CRUD operations.
 
 ## 📸 Preview
 
-(Add screenshot here)
+### Swagger UI
+![Swagger](./swagger.png)
 
 ---
 
